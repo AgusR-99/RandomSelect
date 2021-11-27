@@ -1,5 +1,5 @@
 # RandomSelect
-Dos metodos de seleccion de elementosde manera aleatoria: fuerza bruta y seleccion inteligente
+Dos metodos de seleccion de elementos de manera aleatoria: fuerza bruta y seleccion inteligente
 ## Fuerza Bruta
 ![alt text](https://i.gyazo.com/f26aea77e01e555bdba41e5420045c13.png)
 ## Seleccion Inteligente mediante vector de punteros
